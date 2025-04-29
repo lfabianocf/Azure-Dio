@@ -3,7 +3,7 @@
   <p align="center">
     <img 
       alt="DIO Education" 
-      src="./assets/AzureCloudnative.webp" 
+      src="https://raw.githubusercontent.com/lfabianocf/Azure-Dio/refs/heads/main/assets/AzureCloudNative.webp" 
       width="100px" 
     />
     <h1>Azure Cloud Native - Microsoft - Dio</h1>
