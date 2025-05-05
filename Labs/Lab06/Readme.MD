@@ -39,6 +39,7 @@ O objetivo deste repositório é demonstrar o uso de práticas modernas no desen
 - **GitHub Copilot**: Auxilia na geração de código e sugestões inteligentes. Certifique-se de que a extensão está instalada e configurada no VS Code para aproveitar seu potencial.
 
 ### Exemplos de Prompts para Geração de Código com GitHub Copilot
+- ** Gerados prompts para gerar jogo simples releta com html, js, css e canvas com animações simples e api simples em node. Demosntrando a utilização do copilot para gerar código, sugestão , teste com objetivo uso do copilot auxiliando no desenvolvimento. 
 
 #### GPT-4.0
 
