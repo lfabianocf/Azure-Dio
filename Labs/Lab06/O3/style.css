@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #70c5ce; /* Sky blue background */
+}
+
+canvas {
+    display: block;
+    margin: 0 auto; /* Center the canvas */
+    background-color: #fff; /* White background for the game area */
+    border: 2px solid #000; /* Black border around the canvas */
+}
+
+h1 {
+    text-align: center;
+    color: #fff; /* White text for the title */
+    font-family: 'Arial', sans-serif;
+}
+
+#game-over {
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    color: #fff; /* White text */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
