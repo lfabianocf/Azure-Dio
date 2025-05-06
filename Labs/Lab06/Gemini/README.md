@@ -1,5 +1,5 @@
 # Jogo Flapbird
-Flapbird é um jogo simples e divertido inspirado no clássico Flappy Bird, com o Mario como personagem principal. O objetivo do jogo é navegar pelos obstáculos tocando na tela para fazer o Mario pular. Gerado com Copilot com agenda Gemini. 
+Flapbird é um jogo simples e divertido inspirado no clássico Flappy Bird, com o Mario como personagem principal. O objetivo do jogo é navegar pelos obstáculos tocando na tela para fazer o Mario pular. Gerado com Copilot com agente Gemini. 
 
 ## Estrutura do Projeto
 
