@@ -1,6 +1,6 @@
 # Via CEP API
 
-Este projeto é uma API simples em Node.js que recupera informações de endereço com base em um CEP (Código Postal) fornecido, utilizando a API ViaCEP. Códigos gerado com Copilot.
+Este projeto é uma API simples em Node.js que recupera informações de endereço com base em um CEP (Código Postal) fornecido, utilizando a API ViaCEP. Códigos gerado com Copilot com agente GPT-4o.
 
 ## Índice
 
