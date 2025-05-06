@@ -1,29 +1,31 @@
-# Flapbird Game
+# Jogo Flapbird
+Flapbird é um jogo simples e divertido inspirado no clássico Flappy Bird, com o Mario como personagem principal. O objetivo do jogo é navegar pelos obstáculos tocando na tela para fazer o Mario pular. Gerado com Copilot com agenda Gemini. 
 
-Flapbird is a simple and fun game inspired by the classic Flappy Bird, featuring Mario as the main character. The objective of the game is to navigate through obstacles by tapping the screen to make Mario jump.
+## Estrutura do Projeto
 
-## Project Structure
+- `index.html`: Contém a estrutura HTML do jogo, incluindo o elemento canvas.
+- `game.js`: Contém a lógica principal do jogo, lidando com a entrada do usuário, atualizações do estado do jogo e renderização.
+- `style.css`: Contém os estilos do jogo para melhorar a interface do usuário.
+- `README.md`: Documentação do projeto.
 
-- `index.html`: Contains the HTML structure for the game, including the canvas element.
-- `game.js`: Contains the main game logic, handling user input, game state updates, and rendering.
-- `style.css`: Contains styles for the game to enhance the user interface.
-- `README.md`: Documentation for the project.
+## Como Executar o Jogo
 
-## How to Run the Game
+1. Clone o repositório ou baixe os arquivos do projeto.
+2. Abra o arquivo `index.html` em um navegador web.
+3. Use a barra de espaço ou clique para fazer o Mario pular e navegar pelos obstáculos.
 
-1. Clone the repository or download the project files.
-2. Open `index.html` in a web browser.
-3. Use the spacebar or click to make Mario jump and navigate through the obstacles.
+## Dependências
 
-## Dependencies
+Nenhuma biblioteca externa é necessária para executar este jogo. Apenas certifique-se de ter um navegador web moderno que suporte HTML5 e JavaScript.
 
-No external libraries are required to run this game. Just ensure you have a modern web browser that supports HTML5 and JavaScript.
+## Solução de Problemas
 
-## Troubleshooting
+Se você encontrar problemas, como imagens que não carregam, verifique o seguinte:
 
-If you encounter issues, such as images not loading, check the following:
+- Certifique-se de que todos os arquivos de imagem estão no diretório correto e que os caminhos em `game.js` estão precisos.
+- Abra o console do navegador para verificar mensagens de erro que possam ajudar a diagnosticar o problema.
 
-- Ensure that all image files are in the correct directory and the paths in `game.js` are accurate.
-- Open the browser console to check for any error messages that can help diagnose the problem.
+Divirta-se jogando Flapbird!
 
-Enjoy playing Flapbird!
+
+
